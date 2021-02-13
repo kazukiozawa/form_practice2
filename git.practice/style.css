@@ -1,0 +1,36 @@
+.container  {
+    
+    margin: 0 auto;
+    padding: 0 15px;
+    
+
+}
+
+header {
+    height: 42px;
+    width: 100%;
+    background-color:#fff;
+
+}
+
+header h3 {
+    letter-spacing: 4px;
+    
+}
+
+.main-wrapper {
+    text-align: center;
+    background-color: teal;
+    height: 560px;
+    
+}
+
+.main-wrapper h1 {
+    padding-top: 30px;
+}
+
+
+
+
+
+
